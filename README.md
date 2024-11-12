@@ -17,7 +17,7 @@ class MateusFernandes {
     const today = new Date();
 
     return (
-      `My name is ${this.name} and I'm focusing on Data Science development (and also Full Stack development). \n` +
+      `My name is ${this.name} and I'm focusing on Data Science (and also Full Stack development). \n` +
       `I have an ${this.profile[0]} and ${this.profile[1]} profile. \n` +
       `Technologies I use the most: ${this.tech[0]}, ${this.tech[1]} e ${this.tech[2]}. \n` +
       `My differential is in the creativity to solve problems in an innovative and efficient way. \n\n`      
